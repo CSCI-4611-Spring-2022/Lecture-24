@@ -1,6 +1,6 @@
 # Lecture 24: Intersection Tests
 
-Detailed explanation of this code can be found in the lecture video.
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_byvzwf0p).
 
 You can run the program on [GitHub pages](https://csci-4611-spring-2022.github.io/Lecture-24).
 
